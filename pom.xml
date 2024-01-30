@@ -14,7 +14,7 @@
 	<name>Milestone_Project</name>
 	<description>MVC exmample project in Spring</description>
 	<properties>
-		<java.version>15</java.version> <!-- Works with 15 -->
+		<java.version>11</java.version> <!-- Works with 15 -->
 	</properties>
 	<dependencies>
 		<dependency>
