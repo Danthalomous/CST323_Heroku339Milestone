@@ -34,4 +34,3 @@ public class AopConfiguration
 		return new DefaultPointcutAdvisor(pointcut, tracer());
 	}
 }
-
